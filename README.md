@@ -58,8 +58,8 @@ python3 generate_eth_addresses.py --count 100 --output my_accounts.csv
 
 ```csv
 index,address,private_key,mnemonic
-1,0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb5,0x1234567890abcdef...,abandon ability able about above absent absorb abstract absurd abuse access accident
-2,0x8ba1f109551bD432803012645Hac136c22C9c00A,0xabcdef1234567890...,accident access abuse absurd abstract absorb absent above about able ability abandon
+1,0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb5,0x1234567890abcdef...,abandon ability able about above absent absorb abstract absurd .......
+2,0x8ba1f109551bD432803012645Hac136c22C9c00A,0xabcdef1234567890...,accident access abuse absurd abstract absorb absent above about .......
 ```
 
 ## 安全注意事项
